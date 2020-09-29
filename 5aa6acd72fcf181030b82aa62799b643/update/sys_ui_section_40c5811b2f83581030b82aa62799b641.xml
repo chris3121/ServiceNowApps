@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Due Dates" section_id="40c5811b2f83581030b82aa62799b641" sys_domain="global" table="x_524730_finance_loan_requirements" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_date_type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>373ae26f2f83d81030b82aa62799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quarterly_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>b73ae26f2f83d81030b82aa62799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quarterly_2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>3b3ae26f2f83d81030b82aa62799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quarterly_3</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>bb3ae26f2f83d81030b82aa62799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quarterly_4</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>3f3ae26f2f83d81030b82aa62799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_semi_annual_1</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>bf3ae26f2f83d81030b82aa62799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_semi_annual_2</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>333ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_annual_due_date</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>b33ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date_comp</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>373ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>b73ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_linked_reporting</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>3b3ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cure_period_1</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>bb3ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cure_period_2</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>3f3ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cure_period_3</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>bf3ae26f2f83d81030b82aa62799b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cure_period_4</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>333ae26f2f83d81030b82aa62799b60c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cure_period_5</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>b33ae26f2f83d81030b82aa62799b60c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cure_period_6</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>373ae26f2f83d81030b82aa62799b60c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cure_period_8</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:40:32</sys_created_on>
+            <sys_id>b73ae26f2f83d81030b82aa62799b60c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:40:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Due Dates</caption>
+            <header>false</header>
+            <name>x_524730_finance_loan_requirements</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-09 17:42:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40c5811b2f83581030b82aa62799b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_524730_finance_loan_requirements</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Finance" source="x_524730_finance">5aa6acd72fcf181030b82aa62799b643</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance">5aa6acd72fcf181030b82aa62799b643</sys_scope>
+            <sys_update_name>sys_ui_section_40c5811b2f83581030b82aa62799b641</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-09 17:42:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

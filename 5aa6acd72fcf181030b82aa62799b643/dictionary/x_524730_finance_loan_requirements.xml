@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Loan Requirements" max_length="40" name="x_524730_finance_loan_requirements" sizeclass="7" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Amortization Schedule" max_length="1024" name="amort_sched" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Brief Description" max_length="255" name="brief_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cash Management and Hedging" value="2"/>
+                <element inactive_on_update="false" label="Financial Reporting with Certificate" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Completed Due Date" max_length="40" name="completedduedate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Covenant Compliance Status" max_length="40" name="covenant_comp_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Compliant" value="1"/>
+                <element inactive_on_update="false" label="Missing" value="3"/>
+                <element inactive_on_update="false" label="Non-Compliant" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Completed Due Date" max_length="40" name="due_date_comp" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Due Date Compliance Status" max_length="40" name="due_date_compliance_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" value="1"/>
+                <element inactive_on_update="false" label="Warning" value="2"/>
+            </choice>
+        </element>
+        <element label="GAAP" max_length="40" name="gaap" type="boolean"/>
+        <element label="Cure Period?" max_length="40" name="is_in_cure_period" type="boolean"/>
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reference" max_length="255" name="reference" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Documents Required" max_length="255" name="req_docs" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Annual" max_length="40" name="u_annual_due_date" type="glide_date"/>
+        <element default="0" label="Cure period" max_length="40" name="u_cure_period" type="integer"/>
+        <element default="0" label="Cure Period" max_length="40" name="u_cure_period_1" type="integer"/>
+        <element default="0" label="Cure Period" max_length="40" name="u_cure_period_2" type="integer"/>
+        <element default="0" label="Cure Period" max_length="40" name="u_cure_period_3" type="integer"/>
+        <element default="0" label="Cure Period" max_length="40" name="u_cure_period_4" type="integer"/>
+        <element default="0" label="Cure Period" max_length="40" name="u_cure_period_5" type="integer"/>
+        <element default="0" label="Cure Period" max_length="40" name="u_cure_period_6" type="integer"/>
+        <element default="0" label="Cure Period" max_length="40" name="u_cure_period_8" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Due Date" max_length="40" name="u_due_date_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Monthly" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Quarterly" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Semi-Annual" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Annual" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element label="Notes on Reporting" max_length="40" name="u_file_attachment_4" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="High impact and General Undertaking" max_length="40" name="u_impact_undertaking" type="string">
+            <choice>
+                <element inactive_on_update="false" label="High Impact" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Medium Impact" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Low Impact" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="No Impact" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element label="Linked to a reporting period?" max_length="40" name="u_linked_reporting" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Project" max_length="255" name="u_project" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="1st Quarterly" max_length="40" name="u_quarterly_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="2nd Quarterly" max_length="40" name="u_quarterly_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="3rd Quarterly" max_length="40" name="u_quarterly_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="4th Quarterly" max_length="40" name="u_quarterly_4" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="1st Semi-Annual" max_length="40" name="u_semi_annual_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="2nd Semi-Annual" max_length="40" name="u_semi_annual_2" type="glide_date"/>
+    </element>
+</database>

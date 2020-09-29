@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="covenant_compliance_status" label="Covenant Compliance Status" language="en" table="x_524730_finance_loan">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>covenant_compliance_status</element>
+            <help/>
+            <hint/>
+            <label>Covenant Compliance Status</label>
+            <language>en</language>
+            <name>x_524730_finance_loan</name>
+            <plural>Covenant Compliance Status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-09 15:44:09</sys_created_on>
+            <sys_id>e78a2c9f2fcf181030b82aa62799b620</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Covenant Compliance Status</sys_name>
+            <sys_package display_value="Finance" source="x_524730_finance">5aa6acd72fcf181030b82aa62799b643</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance">5aa6acd72fcf181030b82aa62799b643</sys_scope>
+            <sys_update_name>sys_documentation_x_524730_finance_loan_covenant_compliance_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-09 15:44:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

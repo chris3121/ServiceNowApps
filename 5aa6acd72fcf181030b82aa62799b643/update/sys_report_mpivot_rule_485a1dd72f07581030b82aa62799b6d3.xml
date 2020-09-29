@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_mpivot_rule">
+    <sys_report_mpivot_rule action="INSERT_OR_UPDATE">
+        <bg_color>background-color:</bg_color>
+        <bg_color_id/>
+        <color>background-color:#FFA500</color>
+        <color_id display_value="Orange">65b3036ca9fe3dba0192f5580f3a64bc</color_id>
+        <operator>between</operator>
+        <order/>
+        <report_id display_value="Overdue Loans">733a95972f07581030b82aa62799b62c</report_id>
+        <sys_class_name>sys_report_mpivot_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 19:13:02</sys_created_on>
+        <sys_id>485a1dd72f07581030b82aa62799b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>between</sys_name>
+        <sys_package display_value="Finance" source="x_524730_finance">5aa6acd72fcf181030b82aa62799b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance">5aa6acd72fcf181030b82aa62799b643</sys_scope>
+        <sys_update_name>sys_report_mpivot_rule_485a1dd72f07581030b82aa62799b6d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 19:13:02</sys_updated_on>
+        <value1>0</value1>
+        <value2>3</value2>
+    </sys_report_mpivot_rule>
+</record_update>

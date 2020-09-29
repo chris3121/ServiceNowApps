@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="2572c1d32f83581030b82aa62799b64a" sys_domain="global" table="x_524730_finance_loan_requirements" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-09 17:34:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3d305572f83581030b82aa62799b693</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_524730_finance_loan_requirements" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">2572c1d32f83581030b82aa62799b64a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">b6d305572f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-09 17:34:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-09 17:42:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00c5811b2f83581030b82aa62799b644</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_524730_finance_loan_requirements" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">2572c1d32f83581030b82aa62799b64a</sys_ui_form>
+            <sys_ui_section caption="Due Dates" display_value="Due Dates" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">40c5811b2f83581030b82aa62799b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-09 17:42:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-10 19:23:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d856a2e72f83d81030b82aa62799b610</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_524730_finance_loan_requirements" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">2572c1d32f83581030b82aa62799b64a</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">d45662e72f83d81030b82aa62799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:23:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-09 17:28:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed72c1d32f83581030b82aa62799b67f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_524730_finance_loan_requirements" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">2572c1d32f83581030b82aa62799b64a</sys_ui_form>
+            <sys_ui_section caption="History" display_value="History" name="x_524730_finance_loan_requirements" sys_domain="global" view="Default view">e172c1d32f83581030b82aa62799b649</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-10 19:23:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_524730_finance_loan_requirements</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-09 17:28:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2572c1d32f83581030b82aa62799b64a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_524730_finance_loan_requirements</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Finance" source="x_524730_finance">5aa6acd72fcf181030b82aa62799b643</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance">5aa6acd72fcf181030b82aa62799b643</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2572c1d32f83581030b82aa62799b64a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-09 17:28:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Loans" max_length="40" name="x_524730_finance_loan" sizeclass="9" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Covenant Compliance Status" max_length="40" name="covenant_compliance_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Compliant" value="1"/>
+                <element inactive_on_update="false" label="Non-Compliant" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Due Date Compliance Status" max_length="40" name="due_date_compliance_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" value="1"/>
+                <element inactive_on_update="false" label="Overdue" value="3"/>
+                <element inactive_on_update="false" label="Warning" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="FM Quarterly Representation" max_length="40" name="fm_quart_rep" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Compliant" value="1"/>
+                <element inactive_on_update="false" label="Missing" value="3"/>
+                <element inactive_on_update="false" label="Non-Compliant" value="2"/>
+            </choice>
+        </element>
+        <element label="Is In Cure Period" max_length="40" name="is_in_cure_period" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Loan Code" max_length="40" name="loan_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project" max_length="100" name="project" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Region" max_length="40" name="region" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Africa" value="2"/>
+                <element inactive_on_update="false" label="Europe" value="3"/>
+                <element inactive_on_update="false" label="Latam" value="4"/>
+                <element inactive_on_update="false" label="NAM" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="160" name="short_desc1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="SVP Finance Quarterly Representation" max_length="40" name="svp_finance_quarterly_representation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Compliant" value="1"/>
+                <element inactive_on_update="false" label="Missing" value="3"/>
+                <element inactive_on_update="false" label="Non-Compliant" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Company Code" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

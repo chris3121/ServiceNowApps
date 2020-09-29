@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>svp_finance_quarterly_representation</element>
+        <name>x_524730_finance_loan</name>
+        <style>background-color:#12CFAF;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 16:42:15</sys_created_on>
+        <sys_id>e2d7b4932f43581030b82aa62799b611</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_524730_finance_loan</sys_name>
+        <sys_package display_value="Finance" source="x_524730_finance">5aa6acd72fcf181030b82aa62799b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance">5aa6acd72fcf181030b82aa62799b643</sys_scope>
+        <sys_update_name>sys_ui_style_e2d7b4932f43581030b82aa62799b611</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 16:42:15</sys_updated_on>
+        <value>1</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=e2d7b4932f43581030b82aa62799b611"/>
+</record_update>
